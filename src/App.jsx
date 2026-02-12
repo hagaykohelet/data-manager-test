@@ -40,9 +40,8 @@ function App() {
         dangerous = item
       }
     }
-    console.log(dangerous);
     
-    setTerrorist(dangerous)
+    setTerrorist([dangerous])
   }
 
   function searchByName() {
