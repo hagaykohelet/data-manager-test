@@ -1,0 +1,23 @@
+td{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.one-row{
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.name-img{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
